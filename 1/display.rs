@@ -13,7 +13,6 @@ impl fmt::Display for StructureInterger
 }
 
 //implementação de plano cartesiano
-
 #[derive(Debug)]
 struct CartesianPlane
 {
